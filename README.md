@@ -15,15 +15,12 @@ Factorial of 5 is: 120
 
 ### Task 2: Using the Math Module for Calculations
 
-This script performs basic mathematical calculations using Python’s built-in math module.
-
--Prompts the user to enter a number.
--Uses functions from the math module to calculate:
- -Square root of the number
- -Natural logarithm (log base e)
- -Sine of the number (in radians)
--Prints the results of all three calculations.
-
+This script performs basic mathematical operations using Python's built-in **math** module.
+- Prompts the user to enter a number.
+- Calculates and prints:
+  - Square root of the number
+  - Natural logarithm (log base e)
+  - Sine of the number (in radians)
 ### Example:
 
 Enter a number: 25
